@@ -2,7 +2,7 @@
 העבודה הייתה סך הכל נחמדה ולמדתי HTML קצת יותר לעומק. מקווה שהקורס ימשיך ככה ושאצא עם מקסימום ידע ונסיון.
 
 כתובת האתר:
-https://sise-web-development-environments.github.io/assignment1-308157965/
+https://sise-web-development-environments.github.io/308157965/
 
 בדיקה נעימה ושהקורונה תחלוף במהרה! :)
 תודה רבה,
